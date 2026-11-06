@@ -83,7 +83,7 @@ Los criterios del skill están parafraseados; el repositorio no reproduce el tex
 
 ## Autor
 
-**Victor Omar Vite León** — Pontificia Universidad Católica del Perú (PUCP)
+**Victor Omar Vite León**
 ORCID: [0000-0002-0206-5858](https://orcid.org/0000-0002-0206-5858)
 
 ## Licencia
